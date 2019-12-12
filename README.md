@@ -1,2 +1,2 @@
-# C_22
-Algorithms learnt
+# bounceOffAlgorithm
+Algorithm to bounce off two objects
